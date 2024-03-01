@@ -1,0 +1,62 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.isimo-sezulu {
+  background: white;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.search-form-input {
+  background-color: RGB(226 218 231);
+  border: solid 1px RGB(226 218 231);
+  border-radius: 30px;
+  font-size: 17px;
+  height: 40px;
+  padding: 15px 20px;
+  width: 80%;
+}
+
+.search-button {
+  background-color: RGB(197 25 177);
+  margin-left: 3px;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  height: 40px;
+  padding: 13px 18px;
+  width: 18%;
+}
+
+main {
+  padding: 20px 0;
+}
+
+.weather-data {
+  display: flex;
+  justify-content: space-between;
+}
+
+.weather-app-temp-container {
+  display: flex;
+}
+
+.weather-temperature {
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.weather-icon {
+  width: 68px;
+  height: 58px;
+  margin-top: 8px;
+  margin-left: 10px;
+}
+.weather-app-unit {
+  margin-top: 8px;
+  font-size: 28px;
+}
