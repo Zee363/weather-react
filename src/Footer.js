@@ -2,6 +2,7 @@ import React from "react";
 import "./style.css";
 
 export default function Footer () {
+  return (
   <div className="footer">
   <footer>
     This code is{" "}
@@ -10,4 +11,5 @@ export default function Footer () {
     </a>
   </footer>
   </div>
+  );
 }
