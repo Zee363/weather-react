@@ -7,7 +7,7 @@ export default function Footer () {
   <footer>
     This code is{" "}
     <a href="https://github.com/Zee363/weather-react">
-      is open-sourced on Github.
+     open-sourced on Github.
     </a>
   </footer>
   </div>
