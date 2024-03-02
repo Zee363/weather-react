@@ -22,9 +22,6 @@ export default function Main() {
         </div>
         <div className="weather-app-unit">&deg;C</div>
       </div>
-      <footer>
-        This code is <a href="https://github.com/Zee363/weather-react">is open-sourced on Github.</a>
-      </footer>
-    </div>    
+      </div>  
   );
 }
