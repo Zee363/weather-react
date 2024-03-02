@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import Header from "./Header";
 import Main from "./Main";
 import Body from "./Body";
+import Footer from "./Footer";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,6 +15,7 @@ root.render(
     <Header />
     <Main />
     <Body />
+    <Footer />
   </React.StrictMode>
 );
 
